@@ -1,14 +1,16 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c19a47f-124b-42b8-9f79-5f028f659ec0/deploy-status)](https://app.netlify.com/projects/flowmodoroweb/deploys)
 <div align="center">
-  <img src="assets/logo.png" alt="Aura Focus Logo" width="120">
-  <h1>Aura Focus - A Nature-Inspired Pomodoro Timer</h1>
+  <img src="assets/logo.png" alt="Flowmodoro Logo" width="120">
+  <h1>Flowmodoro - A Nature-Inspired Pomodoro Timer</h1>
   <p>An immersive Pomodoro timer with a stunning glassmorphism UI, dynamic nature-themed backgrounds, and ambient sounds to enhance your focus and productivity.</p>
   
   <p>
     <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
-    <img src="https://img.shields.io/github/license/[YOUR-USERNAME]/[YOUR-REPONAME]" alt="License">
-    <img src="https://img.shields.io/github/repo-size/[YOUR-USERNAME]/[YOUR-REPONAME]" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/[YOUR-USERNAME]/[YOUR-REPONAME]" alt="Last Commit">
-    <a href="https://github.com/[YOUR-USERNAME]/[YOUR-REPONAME]/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+    <img src="https://img.shields.io/github/license/fritzkmanurung/Flowmodoro" alt="License">
+    <img src="https://img.shields.io/github/repo-size/fritzkmanurung/Flowmodoro" alt="Repo Size">
+    <img src="https://img.shields.io/github/last-commit/fritzkmanurung/Flowmodoro" alt="Last Commit">
+    <a href="https://github.com/fritzkmanurung/Flowmodoro/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+    <a href="https://flowmodoroweb.netlify.app/"><img src="https://img.shields.io/badge/Live Demo-flowmodoroweb.netlify.app-brightgreen" alt="Live Demo"></a>
   </p>
 </div>
 
@@ -24,10 +26,10 @@
 
 ## ✨ Preview
 
-Aura Focus provides a tranquil and beautiful environment to help you concentrate on your tasks.
+Flowmodoro provides a tranquil and beautiful environment to help you concentrate on your tasks.
 
 <div align="center">
-  <img src="http://googleusercontent.com/file_content/5" alt="Aura Focus Application Preview">
+  <img src="https://raw.githubusercontent.com/fritzkmanurung/Flowmodoro/main/assets/preview.png" alt="Flowmodoro Application Preview">
 </div>
 
 ## 🌟 Key Features
@@ -42,6 +44,7 @@ Aura Focus provides a tranquil and beautiful environment to help you concentrate
 -   **Productivity Stats**: Track your total completed sessions and total focused time.
 -   **Keyboard Shortcuts**: Control the timer without leaving your keyboard for a seamless workflow.
 -   **Responsive Design**: A fully responsive layout that works perfectly on desktop, tablet, and mobile devices.
+-   **Live Demo**: Try it out instantly on [Flowmodoro Web](https://flowmodoroweb.netlify.app/).
 
 ## 💻 Tech Stack
 
@@ -59,14 +62,16 @@ This project is built from scratch with modern web technologies, making it light
 
 No complex installation or build process is required.
 
-1.  **Clone or Download the Repository**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/[YOUR-REPONAME].git
-    ```
-    Alternatively, you can download the single HTML file.
+1.  **Clone the Repository**
+    Navigate to your desired location and clone the repository:
+    ````bash
+    git clone [https://github.com/fritzkmanurung/Flowmodoro.git](https://github.com/fritzkmanurung/Flowmodoro.git)
+    ````
 
-2.  **Open in Your Browser**
-    Navigate to the project folder and open the `.html` file in any modern web browser.
+2.  **Open `index.html` in Your Browser**
+    Navigate to the cloned `Flowmodoro` folder and open the `index.html` file in any modern web browser.
+
+    Alternatively, you can directly access the live demo at [https://flowmodoroweb.netlify.app/](https://flowmodoroweb.netlify.app/).
 
 ## 🛠️ Usage & Shortcuts
 
@@ -96,7 +101,7 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 ## 📜 License
 
-Distributed under the MIT License.
+Distributed under the MIT License. See the `LICENSE` file for more information.
 
 ---
 
