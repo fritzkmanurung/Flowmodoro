@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3c19a47f-124b-42b8-9f79-5f028f659ec0/deploy-status)](https://app.netlify.com/projects/flowmodoroweb/deploys)
 <div align="center">
-  <img src="assets/logo.png" alt="Flowmodoro Logo" width="120">
+  <img src="assets/Flowmodoro.png" alt="Flowmodoro Logo" width="120">
   <h1>Flowmodoro - A Nature-Inspired Pomodoro Timer</h1>
   <p>An immersive Pomodoro timer with a stunning glassmorphism UI, dynamic nature-themed backgrounds, and ambient sounds to enhance your focus and productivity.</p>
   
@@ -29,7 +29,7 @@
 Flowmodoro provides a tranquil and beautiful environment to help you concentrate on your tasks.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fritzkmanurung/Flowmodoro/main/assets/preview.png" alt="Flowmodoro Application Preview">
+  <img src="assets/preview.png" alt="Flowmodoro Application Preview">
 </div>
 
 ## 🌟 Key Features
