@@ -29,7 +29,7 @@
 Flowmodoro provides a tranquil and beautiful environment to help you concentrate on your tasks.
 
 <div align="center">
-  <img src="assets/Flowmodoro.png" alt="Flowmodoro Application Preview">
+  <img src="assets/image.png" alt="Flowmodoro Application Preview">
 </div>
 
 ## 🌟 Key Features
